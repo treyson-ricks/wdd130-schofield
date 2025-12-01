@@ -70,6 +70,22 @@ footer p {
 
 /* About Us Page */
 
+#about_body {
+    background-color: #2e7d32;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#about_content {
+    max-width: 1600px;
+}
+
+#about_main {
+    padding: 0 10% 0 10%;
+    background-color: white;
+}
+
 #about_hero, #about_team {
     display: grid;
     grid-template-rows: 0.2fr 1fr;
@@ -77,10 +93,13 @@ footer p {
 
 #about_hero {
     grid-template-columns: 1fr 1fr;
+    padding: 100px 0 50px 0;
+    /* padding: 100px 0; */
 }
 
 #about_hero h1, #about_team h1 {
     grid-row: 1/2;
+    margin: 0 0 5% 0;
     font-size: 2.5rem;
     text-align: center;
 }
@@ -95,7 +114,7 @@ footer p {
 
 #about_hero p {
     grid-column: 1/2;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
 }
 
 #about_hero img {
@@ -104,4 +123,28 @@ footer p {
 
 #about_team {
     grid-template-columns: 1fr;
+    padding: 50px 0 100px 0;
+}
+
+#about_team table, #about_team th, #about_team td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#about_team th, #about_team td {
+    padding: 3% 0 3% 0;
+}
+
+#about_team th {
+    font-weight: lighter;
+    font-size: 1.2rem;
+}
+
+#about_team td {
+    font-size: 1.5rem;
+}
+
+.about_table_name {
+    font-weight: bold;
 }
