@@ -83,7 +83,8 @@ footer p {
 
 #about_main {
     padding: 0 10% 0 10%;
-    background-color: white;
+    background-color: #ffffff;
+    max-width: 975px;
 }
 
 #about_hero, #about_team {
@@ -115,10 +116,14 @@ footer p {
 #about_hero p {
     grid-column: 1/2;
     font-size: 1.7rem;
+    line-height: 3rem;
 }
 
 #about_hero img {
     grid-column: 2/3;
+    justify-self: right;
+    align-self: center;
+    width: 67%;
 }
 
 #about_team {
