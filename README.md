@@ -1,16 +1,3 @@
-I am such a humble sweetheart, here is the code for the lovely header and footer. 
-<header>
-    <a href="index.html"><h1 id="title">BudgetBuddy</h1></a>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="budget.html">Budget</a>
-        <a href="about.html">About us</a>
-    </nav>
-</header>
-<footer>
-    <p>&copy; 2025 BudgetBuddy &#9679 Made for College Students</p>
-</footer>
-
 This is going to be the best site.
 
 I am not sure where to put announcements, so I am going to put them here for the time-being until I figure that out.
