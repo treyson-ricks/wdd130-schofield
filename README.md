@@ -1,3 +1,5 @@
+Tada look its the link: https://treyson-ricks.github.io/wdd130-schofield/
+
 This is going to be the best site.
 
 I am not sure where to put announcements, so I am going to put them here for the time-being until I figure that out.
