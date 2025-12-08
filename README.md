@@ -1,3 +1,5 @@
+Shazam look it's the link: https://treyson-ricks.github.io/wdd130-schofield/
+
 This is going to be the best site.
 
 I am not sure where to put announcements, so I am going to put them here for the time-being until I figure that out.
@@ -30,3 +32,16 @@ Font Choices:
 Headings: Roboto Bold
 Body text: Roboto Regular
 (Optional) Numbers in the budget rable (makes it look more "data" themed)
+
+Here's some styles that we ought to use for consistency:
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body, h1, h2, h3, p {
+    margin: 0;
+    font-family: "Roboto Mono", sans-serif;
+    color: #333333;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
