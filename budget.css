@@ -1,13 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+nav {
+    font-family: "Roboto Mono";
+}
 body {
-    font-family: sans-serif;
+    font-family: "Roboto";
     background: #fff;
     color: #333;
     margin: 0;
 }
 
 main {
-    border-left: 250px solid #2e7d32;
-    border-right: 250px solid #2e7d32;
+    border-left: 250px solid #a5d6a7;
+    border-right: 250px solid #a5d6a7;
     padding: 2em;
     margin: 0 auto;
 }
