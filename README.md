@@ -1,4 +1,4 @@
-Tada look its the link: https://treyson-ricks.github.io/wdd130-schofield/
+Shazam look it's the link: https://treyson-ricks.github.io/wdd130-schofield/
 
 This is going to be the best site.
 
