@@ -6,24 +6,24 @@
 }
 
 #about_content {
-    max-width: 1600px;
+    width: 100%;
 }
 
 #about_main {
     padding: 0 10% 0 10%;
     background-color: #ffffff;
-    max-width: 975px;
 }
 
 #about_hero, #about_team {
+    margin: 0 auto;
     display: grid;
     grid-template-rows: 0.2fr 1fr;
+    max-width: 975px;
 }
 
 #about_hero {
     grid-template-columns: 1fr 1fr;
     padding: 100px 0 50px 0;
-    /* padding: 100px 0; */
 }
 
 #about_hero h1, #about_team h1 {
